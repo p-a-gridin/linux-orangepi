@@ -16,7 +16,7 @@
 #include "rk3568-linux.dtsi"
 
 / {
-	model = "Radio dispatcher v1.1";
+	model = "Radio dispatcher v2026.11.1";
 	compatible = "rockchip,rk3566-orangepi-cm4", "rockchip,rk3566";
 
 	chosen: chosen {
